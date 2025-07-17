@@ -1,6 +1,10 @@
 # Image Zoomer & Downloader Chrome Extension
 
 A modern Chrome extension that enables users to zoom any image on hover and download images in various formats.
+<img width="427" height="248" alt="image" src="https://github.com/user-attachments/assets/d6bdac33-90a7-4c03-a0e9-af8bde188536" />
+<img width="281" height="464" alt="image" src="https://github.com/user-attachments/assets/a3f35a87-a8e4-417f-aada-ec028fb7bcb8" />
+<img width="914" height="848" alt="image" src="https://github.com/user-attachments/assets/17adba0c-22fa-4097-be11-8a527463c283" />
+
 
 ## Features
 
